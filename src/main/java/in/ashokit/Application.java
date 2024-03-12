@@ -10,5 +10,6 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 		int i = 10;
 		int j = 20;
+		int age = 40;
 	}
 }
