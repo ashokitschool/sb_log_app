@@ -12,7 +12,5 @@ public class Application {
 		int j = 20;
 		int age = 40;
 		int k = 30;
-
-		String name="ashokit";
 	}
 }
