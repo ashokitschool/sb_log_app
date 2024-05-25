@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 import in.ashokit.service.MsgService;
 
 @RestController
+@RequestMapping("/api")
 public class MsgRestController {
 	
 	@Autowired
