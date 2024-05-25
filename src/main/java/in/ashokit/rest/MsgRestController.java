@@ -14,6 +14,7 @@ public class MsgRestController {
 	
 	@GetMapping("/welcome")
 	public String getMsg() {
+		int i = 10;
 		return msgService.getWelcomeMsg();
 	}
 	
